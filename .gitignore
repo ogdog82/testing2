@@ -37,5 +37,10 @@ Thumbs.db
 
 # Project specific
 *.log
+# Ignore temporary text files but keep important ones
 *.txt
-!requirements.txt 
+!requirements.txt
+!README.md
+!game_requirements.txt
+!game_requirements_doc.txt
+!game\requirements_doc.txt 
